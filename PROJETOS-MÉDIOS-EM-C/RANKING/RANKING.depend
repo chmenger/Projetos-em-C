@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1775108846 source:c:\codeblocks\projetos\projeto s” pra teste\ranking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+

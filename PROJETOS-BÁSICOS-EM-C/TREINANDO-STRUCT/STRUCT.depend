@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1775030725 source:c:\codeblocks\projetos\projeto s” pra teste\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+

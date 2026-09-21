@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1774502790 source:c:\codeblocks\projetos\projeto s” pra teste\projeto login (string)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
