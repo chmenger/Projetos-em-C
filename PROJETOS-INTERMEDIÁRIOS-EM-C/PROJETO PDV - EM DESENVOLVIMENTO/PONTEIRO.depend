@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1777448425 source:c:\codeblocks\projetos\projeto s” pra teste\ponteiro\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-	<windows.h>
-

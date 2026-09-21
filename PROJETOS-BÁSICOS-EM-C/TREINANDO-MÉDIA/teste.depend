@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1774045975 source:c:\codeblocks\projetos\teste\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-	<locale.h>
-
